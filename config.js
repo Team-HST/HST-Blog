@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'All',
       path: '/'
     },
     {
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Team-HST',
+    name: 'HST',
     photo: '/photo.jpg',
     bio: '개발을 사랑하는 개발자들의 모임, Team HST',
     contacts: {
