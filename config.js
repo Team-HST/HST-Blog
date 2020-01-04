@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'DomainDrivenDesign',
-      path: '/DDD/'
+      path: '/posts/DDD/'
     }
   ],
   author: {
