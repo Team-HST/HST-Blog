@@ -12,17 +12,13 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'All',
+      label: 'Articles',
       path: '/'
     },
     {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'DomainDrivenDesign',
-      path: '/DDD/'
-    }
   ],
   author: {
     name: 'HST',
