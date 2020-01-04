@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'DomainDrivenDesign',
+      path: '/DDD'
     }
   ],
   author: {
@@ -33,7 +33,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'https://github.com/Team-HST',
+      github: '/Team-HST',
       rss: '',
       vkontakte: '',
       linkedin: '',
