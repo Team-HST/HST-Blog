@@ -1,7 +1,6 @@
 ---
 title: "아키텍처 개요"
 date: "2019-01-05"
-template: "post"
 draft: false
 category: "domaindrivendesign"
 ---

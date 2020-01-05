@@ -1,9 +1,7 @@
 ---
 title: "도메인 모델 시작"
 date: "2020-01-04"
-template: "post"
 draft: false
-path: "/DDD/chapter1/"
 category: "domaindrivendesign"
 ---
 
