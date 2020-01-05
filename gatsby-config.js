@@ -86,6 +86,7 @@ module.exports = {
                         date
                         template
                         draft
+                        description
                       }
                     }
                   }

@@ -7,6 +7,7 @@ category: "domaindrivendesign"
 tags:
   - "DDD"
   - "domaindrivendesign"
+description: "네 개의 영역, DIP, 요청 처리 흐름, 인프라스트럭쳐 개요, 모듈 구성에 대한 설명입니다."
 ---
 
 ## 네 개의 영역

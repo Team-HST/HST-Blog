@@ -7,6 +7,8 @@ category: "domaindrivendesign"
 tags:
   - "DDD"
   - "domaindrivendesign"
+description: "도메인, 도메인 모델, 도메인 모델 도출, 엔티티와 밸류, 도메인 용어에 대한 설명입니다."
+
 ---
 
 ## 도메인이란?
