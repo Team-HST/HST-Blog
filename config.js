@@ -19,6 +19,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+    {
+      label: 'DomainDrivenDesign',
+      path: '/DDD/'
+    },
   ],
   author: {
     name: 'HST',
