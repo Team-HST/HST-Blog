@@ -4,6 +4,9 @@ date: "2020-01-04"
 template: "post"
 draft: false
 category: "domaindrivendesign"
+tags:
+  - "DDD"
+  - "domaindrivendesign"
 ---
 
 ## 도메인이란?

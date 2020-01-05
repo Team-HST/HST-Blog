@@ -4,6 +4,9 @@ date: "2020-01-05"
 template: "post"
 draft: false
 category: "domaindrivendesign"
+tags:
+  - "DDD"
+  - "domaindrivendesign"
 ---
 
 ## 네 개의 영역
