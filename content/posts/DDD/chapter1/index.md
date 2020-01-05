@@ -5,7 +5,6 @@ template: "post"
 draft: false
 path: "/DDD/chapter1/"
 category: "domaindrivendesign"
-slug: "도메인-모델-시작"
 ---
 
 ## 도메인이란?
