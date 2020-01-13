@@ -258,7 +258,7 @@ public class RepositoryConfig {
   - 필요에 따라 `delete`, `counts` 등 추가 기능 제공
 
 ## 요청 처리 흐름
-![](/media/요청처리흐름.jpeg)
+![](/media/chapter2/2.2.jpeg)
 1. 사용자가 애플리케이션에 기능 실행 요청을 표현 영역에서 받는다.
 2. 사용자의 요청을 검사하고 응용 서비스가 요구하는 형식으로 변환하여 응용 영역으로 전달한다.
 3. 기능 구현에 필요한 도메인 객체를 Repository에서 가져와 도메인 로직을 실행하거나 신규 도메인 객체를 생성해서 Repository에 저장한다.
@@ -279,3 +279,6 @@ public class RepositoryConfig {
 ## 모듈 구성
 - 한 패키지에 가능하면 10개 미만으로 타입 개수를 유지하려고 노력한다.
 - 이 개수가 넘어가면 모듈을 분리하여 시도해 본다.
+
+### 참조
+> [최범균,『DDD Start!』, 지앤선(2016)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84000742)
