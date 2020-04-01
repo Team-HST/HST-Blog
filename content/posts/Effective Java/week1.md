@@ -1,4 +1,15 @@
 # 2. 객체 생성과 파괴
+---
+title: "객체 생성과 파괴"
+date: "2020-04-01"
+template: "post"
+draft: false
+category: "effectiveJava"
+tags:
+  - "Java"
+  - "effectiveJava"
+description: "객체 생성과 파괴에 대해 다룬 내용입니다."
+---
 
 ### 아이템 1 - 생성자 대신 정적 팩터리 메서드를 고려하라.
 
