@@ -1,6 +1,6 @@
 ---
 title: "아이템3 - private 생성자나 열거 타입으로 싱글턴임을 보증하라."
-date: "2020-04-17 3"
+date: "2020-04-17 03"
 template: "post"
 draft: false
 category: "Effective Java"

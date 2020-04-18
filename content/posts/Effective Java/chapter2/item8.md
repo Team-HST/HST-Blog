@@ -1,6 +1,6 @@
 ---
 title: "아이템8 - finalizer와 cleaner를 사용을 피하라."
-date: "2020-04-17 8"
+date: "2020-04-17 08"
 template: "post"
 draft: false
 category: "Effective Java"

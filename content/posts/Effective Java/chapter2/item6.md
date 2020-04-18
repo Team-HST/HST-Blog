@@ -1,6 +1,6 @@
 ---
 title: "아이템6 - 불필요한 객체 생성을 피하라."
-date: "2020-04-17 6"
+date: "2020-04-17 06"
 template: "post"
 draft: false
 category: "Effective Java"

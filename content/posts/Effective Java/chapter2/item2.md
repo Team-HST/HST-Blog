@@ -1,6 +1,6 @@
 ---
 title: "아이템2 - 생성자에 매개변수가 많다면 빌더를 고려하라."
-date: "2020-04-17 2"
+date: "2020-04-17 02"
 template: "post"
 draft: false
 category: "Effective Java"

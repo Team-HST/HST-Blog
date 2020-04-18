@@ -1,6 +1,6 @@
 ---
 title: "아이템7 - 다 쓴 객체 참조를 해제해라."
-date: "2020-04-17 7"
+date: "2020-04-17 07"
 template: "post"
 draft: false
 category: "Effective Java"

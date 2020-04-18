@@ -1,6 +1,6 @@
 ---
 title: "아이템5 - 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라."
-date: "2020-04-17 5"
+date: "2020-04-17 05"
 template: "post"
 draft: false
 category: "Effective Java"
